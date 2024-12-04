@@ -1,0 +1,14 @@
+ram
+ravi
+vijay
+vipin
+hari
+tom
+wilson
+ 
+
+100,anu,django,15
+101,ammu,django,16
+102,manu,djnago,17
+103,varun,django,18
+"this is the details og few students in my class"

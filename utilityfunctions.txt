@@ -1,0 +1,12 @@
+
+print("message") => print a msg in console
+
+type(object) => return daatype of objects
+
+input("message") => read value from console return string values only
+
+round(object,precision)
+
+len()
+
+min(num1,num2)  return smallest number

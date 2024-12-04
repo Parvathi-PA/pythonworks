@@ -1,0 +1,18 @@
+
+
+#PRINT ALL CENTUARY YEAR FROM 1800 TO 2024
+
+for year in range(1800,2025):
+    
+  if year%100==0:
+      
+       print(year)
+
+
+
+for year in range(1800,2025):
+    
+  if year%100!=0:
+      
+      print(year)
+      

@@ -1,0 +1,10 @@
+
+cm = 45
+
+modulo = cm % 100
+
+meter = cm /100
+
+print(meter)
+
+print(modulo)

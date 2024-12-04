@@ -1,0 +1,17 @@
+
+
+from re import fullmatch
+
+aadharnum=input("enter the number:")
+
+pattern="[0-9]{4}[\s][0-9]{4}[\s][0-9]{4}"
+
+matcher=fullmatch(pattern,aadharnum)
+
+if matcher==None:
+    
+    print("invalid")
+    
+else:
+    print("valid")
+        
